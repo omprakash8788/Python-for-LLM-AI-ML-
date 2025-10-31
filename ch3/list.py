@@ -55,8 +55,8 @@
 # print(cars)
 
 # Find the length
-cars = ['bmw', 'audi', 'toyota', 'subaru']
-print(len(cars))
+# cars = ['bmw', 'audi', 'toyota', 'subaru']
+# print(len(cars))
 
 
 
