@@ -4,6 +4,7 @@ for magician in magicians:
 
 
 
+
 # Output 
 #  Alice, that was a great trick!
 # David, that was a great trick!
